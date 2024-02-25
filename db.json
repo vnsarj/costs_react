@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "id": "a267",
+      "name": "teste",
+      "budget": "20",
+      "category": {
+        "id": "1",
+        "name": "Infraestrutura"
+      },
+      "cost": 6,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "3",
+          "description": "isso",
+          "id": "1da68645-7957-4335-bccc-98967e65c5e6"
+        },
+        {
+          "name": "teste",
+          "cost": "1",
+          "description": "teste",
+          "id": "0e03a32f-bffb-488f-a666-cf38c85c86b5"
+        }
+      ]
+    },
+    {
+      "id": "8ca7",
+      "name": "teste",
+      "budget": "200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4283",
+      "name": "teste",
+      "budget": "222",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 24,
+      "services": [
+        {
+          "name": "Vinícius Araújo",
+          "cost": "1",
+          "description": "vamos nessa",
+          "id": "2c2ce130-6c42-4cf5-b5f5-b39ec30d9991"
+        },
+        {
+          "name": "Vinícius Araújo",
+          "cost": "1",
+          "description": "vamos nessa",
+          "id": "2c2ce130-6c42-4cf5-b5f5-b39ec30d9991"
+        },
+        {
+          "name": "22",
+          "cost": "22",
+          "description": "22",
+          "id": "4a8c6c12-1b84-41f5-b39c-5221a4144058"
+        }
+      ]
+    },
+    {
+      "id": "e7c2",
+      "name": "teste",
+      "budget": "22",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 22,
+      "services": [
+        {
+          "name": "22",
+          "cost": "22",
+          "description": "22",
+          "id": "a80f97c5-66c7-40e4-9c1b-b40019246e30"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infraestrutura"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
